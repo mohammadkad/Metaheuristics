@@ -1,2 +1,4 @@
-# metaheuristics
-Metaheuristic Algorithms
+### Metaheuristics
+Metaheuristic Algorithms:
+- PSO
+- Walrus
